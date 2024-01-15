@@ -1,7 +1,7 @@
 ---
-date: '2021-08-01'
+date: '2021-05-01'
 team: 'Recruitment Tool'
-title: 'Backend Developer'
+title: 'Backend Developer | Fellow'
 company: 'Talent Acquisition | SAP'
 location: 'Bengaluru, India'
 range: 'May 2021 - Feb 2022'

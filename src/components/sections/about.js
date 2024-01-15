@@ -138,7 +138,7 @@ const About = () => {
 
   return (
     <StyledAboutSection id="about" ref={revealContainer}>
-      <h2 className="numbered-heading">About Me</h2>
+      <h2 className="numbered-heading">About me</h2>
 
       <div className="inner">
         <StyledText>
@@ -146,8 +146,8 @@ const About = () => {
             <p>I use code to solve real-world problems :-)</p>
 
             <p>
-              I started my journey as a software engineer while pursuing my Bachelor's degree from
-              Christ. Met few amazing people there and we bootstrapped{' '}
+              I started my journey as a software engineer while pursuing my bachelor's degree, met
+              few amazing people there and we bootstrapped{' '}
               <a href="https://www.emildasolutions.com/">emilda solutions</a>, to solve customer
               problems through web & mobile solutions. Fast-forward to today, I'm helping the world
               run better with <a href="https://www.sap.com/india/index.html">SAP</a>.

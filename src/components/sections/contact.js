@@ -55,9 +55,9 @@ const Contact = () => {
 
   return (
     <StyledContactSection id="contact" ref={revealContainer}>
-      <h2 className="numbered-heading overline">What’s Next?</h2>
+      <h2 className="numbered-heading overline">What’s next?</h2>
 
-      <h2 className="title">Get In Touch</h2>
+      <h2 className="title">Get in touch</h2>
 
       <p>
         I'm on the lookout for fresh opportunities where I can not only grow but also contribute my

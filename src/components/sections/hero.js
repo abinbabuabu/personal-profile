@@ -69,7 +69,7 @@ const Hero = () => {
         <a href="https://help.sap.com/docs/CX_NG_SALES" target="_blank" rel="noreferrer">
           SAP
         </a>
-        . Along with exploring new technologies and solving new problems, I also enjoy Exploring new
+        . Along with exploring new technologies and solving new problems, I also love exploring new
         places in my{' '}
         <span className="bike-image" id="dynamicText">
           {' '}

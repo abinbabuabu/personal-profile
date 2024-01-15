@@ -81,7 +81,6 @@ const StyledTabButton = styled.button`
   text-align: left;
   white-space: pre-line;
 
-
   @media (max-width: 768px) {
     padding: 0 15px 2px;
   }
@@ -247,7 +246,7 @@ const Jobs = () => {
 
   return (
     <StyledJobsSection id="jobs" ref={revealContainer}>
-      <h2 className="numbered-heading">Where I’ve Worked</h2>
+      <h2 className="numbered-heading">Where I’ve worked</h2>
 
       <div className="inner">
         <StyledTabList role="tablist" aria-label="Job tabs" onKeyDown={e => onKeyDown(e)}>
