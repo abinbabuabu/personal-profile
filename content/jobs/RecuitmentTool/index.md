@@ -4,21 +4,17 @@ team: 'Recruitment Tool'
 title: 'Backend Developer | Fellow'
 company: 'Talent Acquisition | SAP'
 location: 'Bengaluru, India'
-range: 'May 2021 - Feb 2022'
+range: 'Aug 2021 - Feb 2022'
 url: ''
 ---
 
-- Co-led a backend project and collaborated with team members to successfully design and
-  develop a recruitment tool from scratch within a quick four-month timeframe during fellowship
-- Implemented multiple APIs using the Spring boot, enhancing functionality and enabling seamless
-  communication between various system components.
-- Worked closely with the front-end developer to ensure smooth integration of the recruitment tool,
-  ensuring a cohesive user experience.
-- Conducted regular code reviews, debugging, and troubleshooting to maintain high code quality
-  and optimize system performance.
+- Co-led a backend project, working with a team of 5, to plan, design, and develop a recruitment tool
+- Technologies used were java, springboot, and springdata, microsoft graphAPI for calendar & teams integration.
+- Effective solutions for all the involved-parties recruiter, interviewer and candidate.
+- Reduced the time to hire by 70% and improved the candidate experience by 95%.
+- Worked closely with the front-end team to ensure smooth integration.
+- Gave a talk on the project at the SAP Labs, India Dkom 2022.
+- Conducted regular code reviews and provided feedback to ensure high-quality code.
 - Collaborated with stakeholders to gather requirements, analyze business needs, and propose
-  innovative solutions to simplify the hiring lifecycle.
-- Provided technical guidance and mentorship to junior developers, fostering a collaborative and
-  knowledge-sharing environment.
-- Conducted thorough testing, including unit testing and integration testing, to identify and
-  resolve any bugs or issues before deployment
+  solutions to simplify the hiring lifecycle.
+- Ideation to first event using the tool in 6 months.

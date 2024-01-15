@@ -8,7 +8,9 @@ range: 'Aug 2020 - April 2021'
 url: 'https://play.google.com/store/apps/details?id=com.sap.sdm.android&pcampaignid=web_share'
 ---
 
-- Revamped Android Client, seamlessly merging legacy code and introducing new features for enhanced functionality.
+- Single-handedly developed android client, for the document-management team, using native android, openCMIS and kotlin.
+- Managing files & folders, offline sync, file encryption, QR code capturing etc. are few of the features.
 - Worked closely with the architect to plan and design the application, implementing best practices and industry standards.
-- Implemented code coverage using Junits and multiple POC's using the internal mobile service platform.
+- Multiple poc's using the internal mobile service platform and oAuth 2.0.
+- Implemented code coverage using Junits.
 - Mentored and conducted knowledge transfer sessions to new team members.

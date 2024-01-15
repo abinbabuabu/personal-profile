@@ -61,8 +61,8 @@ const Contact = () => {
 
       <p>
         I'm on the lookout for fresh opportunities where I can not only grow but also contribute my
-        skills and enthusiasm. If you have exciting projects, job openings, or collaboration ideas,
-        I'd love to hear about them.
+        skills and knowledge. If you have exciting projects, job openings, or ideas, I'd love to
+        hear about them.
       </p>
 
       <a className="email-link" href={`mailto:${email}`}>
