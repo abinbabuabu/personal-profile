@@ -16,3 +16,4 @@ export { default as IconStar } from './star';
 export { default as IconTwitter } from './twitter';
 export { default as IconEmail } from './mail';
 export { default as IconLeetCode } from './leetcode';
+export { default as IconTopMate } from './topmate';

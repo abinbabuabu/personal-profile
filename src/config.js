@@ -22,6 +22,10 @@ module.exports = {
       name: 'Instagram',
       url: 'https://www.instagram.com/arrackal._abu?igsh=ZzFzdHByamx2N2Nx&utm_source=qr',
     },
+    {
+      name: 'TopMate',
+      url: 'https://topmate.io/abin_babu',
+    },
   ],
 
   navLinks: [
